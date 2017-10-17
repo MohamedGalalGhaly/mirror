@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507826608 source:/home/mohamed-galal/Desktop/Embedded/mirror/main.c
+	<stdio.h>
+	<stdlib.h>
+
